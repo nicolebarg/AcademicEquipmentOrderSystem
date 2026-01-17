@@ -13,6 +13,8 @@
 
 require('dotenv').config();
 
+// logAuditAction() inserts logs
+// supabase is used to directly query/delete rows for verification
 const { 
   logAuditAction, 
   AUDIT_ACTIONS, 

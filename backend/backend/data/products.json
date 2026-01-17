@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Microscope",
+    "description": "Advanced optical microscope",
+    "price": 499.99,
+    "quantity": 5,
+    "category": "Lab Equipment",
+    "status": "available"
+  },
+  {
+    "id": 2,
+    "name": "Projector",
+    "description": "HD Digital Projector",
+    "price": 899.99,
+    "quantity": 3,
+    "category": "Audio Visual",
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "name": "Bunsen Burner",
+    "description": "Laboratory Bunsen burner",
+    "price": 49.99,
+    "quantity": 15,
+    "category": "Lab Equipment",
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "name": "Oscilloscope",
+    "description": "Digital oscilloscope",
+    "price": 1299.99,
+    "quantity": 2,
+    "category": "Electronics",
+    "status": "available"
+  },
+  {
+    "id": 5,
+    "name": "Spectrometer",
+    "description": "UV-Vis Spectrometer",
+    "price": 2499.99,
+    "quantity": 1,
+    "category": "Lab Equipment",
+    "status": "available"
+  }
+]

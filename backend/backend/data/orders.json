@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "userId": 3,
+    "items": [
+      {
+        "productId": 1,
+        "name": "Microscope",
+        "quantity": 1,
+        "unitPrice": 499.99
+      }
+    ],
+    "status": "rejected",
+    "totalAmount": 499.99,
+    "createdAt": "2025-11-20T00:00:00.000Z",
+    "rejectedAt": "2025-12-14T15:14:04.177Z"
+  },
+  {
+    "id": 2,
+    "userId": 3,
+    "items": [
+      {
+        "productId": 3,
+        "name": "Bunsen Burner",
+        "quantity": 2,
+        "unitPrice": 49.99
+      }
+    ],
+    "status": "approved",
+    "totalAmount": 99.98,
+    "createdAt": "2025-11-18T00:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "items": [
+      {
+        "productId": 3,
+        "name": "Bunsen Burner",
+        "quantity": 2,
+        "unitPrice": 49.99
+      }
+    ],
+    "status": "approved",
+    "totalAmount": 99.98,
+    "createdAt": "2025-12-14T15:13:26.207Z",
+    "approvedAt": "2025-12-14T15:14:06.238Z"
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "items": [
+      {
+        "productId": 3,
+        "name": "Bunsen Burner",
+        "quantity": 3,
+        "unitPrice": 49.99
+      }
+    ],
+    "status": "approved",
+    "totalAmount": 149.97,
+    "createdAt": "2025-12-14T15:15:07.483Z",
+    "approvedAt": "2025-12-14T15:15:25.142Z"
+  },
+  {
+    "id": 5,
+    "userId": 4,
+    "items": [
+      {
+        "productId": 3,
+        "name": "Bunsen Burner",
+        "quantity": 5,
+        "unitPrice": 49.99
+      }
+    ],
+    "status": "approved",
+    "totalAmount": 249.95000000000002,
+    "createdAt": "2025-12-14T15:37:36.629Z",
+    "approvedAt": "2025-12-14T15:37:50.733Z"
+  }
+]

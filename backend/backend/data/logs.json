@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "action": "LOGIN",
+    "description": "Admin logged in",
+    "createdAt": "2025-11-26T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "action": "ORDER_CREATED",
+    "description": "Order #1 created",
+    "createdAt": "2025-11-26T09:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "action": "PRODUCT_UPDATED",
+    "description": "Product #1 quantity updated",
+    "createdAt": "2025-11-26T08:15:00.000Z"
+  }
+]
